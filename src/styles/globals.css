@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Kumbh Sans';
+    src: url("/fonts/KumbhSans-VariableFont_YOPQ\,wght.ttf");
+    font-style: normal;
+    font-weight: 400 700;
+}
